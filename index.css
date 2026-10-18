@@ -1,0 +1,38 @@
+body {
+        border: #fffcbc;
+        border-style: dashed;
+      font-family: 'Mystery Quest' , serif;
+      text-align: center;
+      padding: 60px 20px;
+      background-color: #55b5fa;
+      color: #f4f0db;
+    }
+
+
+    h1 { 
+        font-size: 80px;
+    }
+    
+    p{ 
+      font-size: 60px;
+    }
+    img{ 
+       width: 300px;
+}
+    button {
+        font-family:'Mystery Quest' , serif;
+      background-color: rgb(53, 161, 255);
+      color: #fdf6d6;
+      border: none;
+      padding: 14px 28px;
+      border-radius: 25px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+
+    #message {
+      margin-top: 25px;
+      font-size: 30px;
+      line-height: 1.6;
+      color: #fbf2cb;
+    }
